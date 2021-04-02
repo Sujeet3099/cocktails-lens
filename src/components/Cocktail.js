@@ -17,7 +17,7 @@ const Cocktail = ({ id, name, img, info, glass }) => {
           to={`/cocktail/${id}`}
           className='btn btn-primary'
           onClick={() => {
-            setLoading(true);
+            setLoading(false);
           }}
         >
           details
