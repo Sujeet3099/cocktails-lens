@@ -1,3 +1,6 @@
+# VISIT THE SITE HERE 
+<a href='https://cocktail-lens.netlify.app/'>https://cocktail-lens.netlify.app/</a>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +71,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+<img src='Screenshot (146).png' alt='homescreen'> <br/>
+<img src='Screenshot (147).png' alt='homescreen'> <br/>
+<img src='Screenshot (148).png' alt='homescreen'> <br/>
+<img src='Screenshot (149).png' alt='homescreen'> <br/>
